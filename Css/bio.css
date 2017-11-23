@@ -1,0 +1,25 @@
+.citacoes {
+    width: 250px;
+    box-sizing: border-box;
+    border: 10px solid #C2CCCA;
+    padding 20px 40px;
+    background-color: #D9E5E3;
+    padding: 8px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+cite {
+    font-style: italic;
+    float: right;
+    display: block;
+    font-size: 15px;
+}
+
+.petrobras {
+    float: left;
+}
+
+.fiat {
+    float: right;
+}
